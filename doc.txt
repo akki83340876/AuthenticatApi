@@ -1,0 +1,6 @@
+Complet Authentication api 
+1. Registration thorough sending email with valid email id 
+2. login with jwt token
+3. Access and Refresh token 
+4. forget and change password
+5. Updae profile with image  
